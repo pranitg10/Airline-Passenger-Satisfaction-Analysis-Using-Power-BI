@@ -38,4 +38,4 @@ The dashboard contains the following key visualizations:
 ### Conclusion
 
 This Power BI dashboard offers valuable insights into the factors affecting passenger satisfaction for Emirates Airline. 
-By leveraging these insights, airlines can identify areas for service improvement—particularly in the online booking process and food services—and target specific passenger segments to enhance overall satisfaction.
+By leveraging these insights, airlines can identify areas for service improvement particularly in the online booking process and food services and target specific passenger segments to enhance overall satisfaction.
